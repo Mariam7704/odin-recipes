@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first web project. It was simple, yet I learned a lot from it.Before learning html, I learned things that are so important too. I learned the basics of github, how to write a meaningful commit message to improve my project by seeing my progress and the best practices in general.
