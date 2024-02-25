@@ -1,0 +1,27 @@
+body{
+    background-color:#265073;
+    background-image: url(../img/Octoberfest\ Memphis\ Style\ Pattern.svg);
+    background-blend-mode: luminosity;
+    background-repeat: repeat;
+    background-size: 40%;
+}
+
+h1{
+    background-color: #265073;
+    color:gold;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding:30px;
+    margin:-10px 0px 70px -10px;
+    width:100%;
+}
+
+button{
+    padding:10px 15px;
+    margin:15px;
+    border-radius: 15px;
+    border-color: white;
+    background-color:#265073;
+    color:white;
+    font-size: 20px;
+}
